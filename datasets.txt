@@ -26,18 +26,18 @@
     - classes: dropout | enrolled | graduate
     - instances: 4424
 
-7.data: https://archive-beta.ics.uci.edu/ml/datasets/wine+quality
-    - classes: quality (0-10)
-    - instances: 1599
+7.data:
+    - classes:
+    - instances:
 
 8.data: https://archive-beta.ics.uci.edu/ml/datasets/statlog+landsat+satellite
     - classes: 1 (red soil) | 2 (cotton crop) | 3 (grey soil) | 4 (damp grey soil) | 5 (soil with vegetation stubble) | 7 (very damp grey soil)
     - instances: 4435
 
-9.data: https://archive-beta.ics.uci.edu/ml/datasets/poker+hand
-    - classes: 0-9
-    - instances: 100000
+9.data:
+    - classes:
+    - instances:
 
-10.data: https://archive-beta.ics.uci.edu/ml/datasets/magic+gamma+telescope
-    - classes: g (gamma) | h (hadron)
-    - instances: 19020
+10.data:
+    - classes:
+    - instances:
