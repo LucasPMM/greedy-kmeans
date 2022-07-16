@@ -1,0 +1,43 @@
+0.data: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/
+    - classes: iris_setosa | iris_versicolour | iris_virginica
+    - instances: 150
+
+1.data: https://archive-beta.ics.uci.edu/ml/datasets/diabetic+retinopathy+debrecen+data+set
+    - classes: 1 (contains signs of DR) | 0 (no signs of DR)
+    - instances: 1151
+
+2.data: https://archive-beta.ics.uci.edu/ml/datasets/website+phishing
+    - classes: 1 (legitime) | 0 (suspicious) | -1 (phishy)
+    - instances: 1353
+
+3.data: https://archive-beta.ics.uci.edu/ml/datasets/contraceptive+method+choice
+    - classes: 1 (No-use) | 2 (Long-term) | 3 (Short-term)
+    - instances: 1473
+
+4.data: https://archive-beta.ics.uci.edu/ml/datasets/mammographic+mass
+    - classes: 0 (benign) | 1 (malignant)
+    - instances: 961
+
+5.data: https://archive-beta.ics.uci.edu/ml/datasets/tic+tac+toe+endgame
+    - classes: positive | negative
+    - instances: 958
+
+6.data: https://archive-beta.ics.uci.edu/ml/datasets/predict+students+dropout+and+academic+success
+    - classes: dropout | enrolled | graduate
+    - instances: 4424
+
+7.data: https://archive-beta.ics.uci.edu/ml/datasets/wine+quality
+    - classes: quality (0-10)
+    - instances: 1599
+
+8.data: https://archive-beta.ics.uci.edu/ml/datasets/statlog+landsat+satellite
+    - classes: 1 (red soil) | 2 (cotton crop) | 3 (grey soil) | 4 (damp grey soil) | 5 (soil with vegetation stubble) | 7 (very damp grey soil)
+    - instances: 4435
+
+9.data: https://archive-beta.ics.uci.edu/ml/datasets/poker+hand
+    - classes: 0-9
+    - instances: 100000
+
+10.data: https://archive-beta.ics.uci.edu/ml/datasets/magic+gamma+telescope
+    - classes: g (gamma) | h (hadron)
+    - instances: 19020
