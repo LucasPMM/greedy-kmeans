@@ -59,7 +59,7 @@
     - instances: 4177
 
 ## Dataset info:
-10.data:
+10.data: https://archive-beta.ics.uci.edu/ml/datasets/wine+quality
 
-    - classes:
-    - instances:
+    - classes: 1599
+    - instances: 0-10 (quality)
